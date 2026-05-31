@@ -137,8 +137,8 @@ This project helped develop skills in:
 Manjeet Ahuja
 
 Capstone Project
-Bachelor of Computer Applications (BCA)
-Saurashtra University
+Web Design and Development
+Conestoga College (Kitchener, ON, CA)
 
 ---
 
